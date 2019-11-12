@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Last_Term/Programming/Assignment1/Assignment1/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/mac/Desktop/Last_Term/Programming/Assignment1/Assignment1/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/mac/Desktop/Last_Term/Programming/Assignment1/Assignment1/bin/Debug/netcoreapp2.1/nunit.engine.dll
+/Users/mac/Desktop/Last_Term/Programming/Assignment1/Assignment1/bin/Debug/netcoreapp2.1/nunit.engine.api.dll
+/Users/mac/Desktop/Last_Term/Programming/Assignment1/Assignment1/bin/Debug/netcoreapp2.1/Assignment1.deps.json
+/Users/mac/Desktop/Last_Term/Programming/Assignment1/Assignment1/bin/Debug/netcoreapp2.1/Assignment1.runtimeconfig.json
+/Users/mac/Desktop/Last_Term/Programming/Assignment1/Assignment1/bin/Debug/netcoreapp2.1/Assignment1.runtimeconfig.dev.json
+/Users/mac/Desktop/Last_Term/Programming/Assignment1/Assignment1/bin/Debug/netcoreapp2.1/Assignment1.dll
+/Users/mac/Desktop/Last_Term/Programming/Assignment1/Assignment1/bin/Debug/netcoreapp2.1/Assignment1.pdb
+/Users/mac/Desktop/Last_Term/Programming/Assignment1/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Last_Term/Programming/Assignment1/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Last_Term/Programming/Assignment1/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.AssemblyInfo.cs
+/Users/mac/Desktop/Last_Term/Programming/Assignment1/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.dll
+/Users/mac/Desktop/Last_Term/Programming/Assignment1/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.pdb
+/Users/mac/Desktop/Last_Term/Programming/Assignment1/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.csprojAssemblyReference.cache
